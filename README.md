@@ -11,3 +11,16 @@ Gaol: task is to apply the three phases of financial analysis to determine if an
 Reason:
 
 Arbitrage opportunities  Challenge
+
+
+
+# General information about the analysis.
+
+
+## datasets
+o	their names 
+o	 beginning and end dates
+## libraries used in the analysis.
+
+
+
