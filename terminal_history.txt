@@ -1,0 +1,50 @@
+   95  conda deactivate
+   96  ls
+   97  cd OneDrive
+   98  cd desktop
+   99  cd Fintech\ workspace/
+  100  cd _Mar
+  101  cd 02_Listing_Assets/
+  102  cd Unsolved/
+  103  python listing_assets.py
+  104  python listing_assets.py
+  105  python actors_python.py
+  106  python The_401k_shuffle.py
+  107  ls
+  108  pwd
+  109  cd fintech_workspace
+  110  ~
+  111  coda deactivate
+  112  conda deactivate
+  113  ~
+  114  ~
+  115  pwd
+  116  cd one
+  117  exit
+  118  cd OneDrive
+  119  cd Desktop
+  120  cd Fintech/
+  121  cd Challenge3_Repo/
+  122  cd Challenge3Repo/
+  123  git add -A
+  124  git commit -m "Challenge routine update"
+  125  git push origin main
+  126  git status
+  127  git add -A
+  128  git commit -m "Routine commit"
+  129  git push origin main
+  130  git status
+  131  history
+  132  code .
+  133  git add -A
+  134  git commit -m "Routine commit"
+  135  git push origin main
+  136  git add -A
+  137  git commit -m "Challenge work update"
+  138  git push origin main
+  139  git status
+  140  git add -A
+  141  git commit -m "Regular commits as coding are updated"
+  142  git push origin main
+  143  git status
+  144   history 50 >terminal_history.txt
